@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 - [ x ] Improve and customize the user interface by adding a launchscreen and app icon
-- [ ] Run the app on a device rather than in the simulator
+- [ x ] Run the app on a device rather than in the simulator
 
 The following **additional** features are implemented:
 
@@ -25,11 +25,11 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
  
- <div>
-    <a href="https://www.loom.com/share/2a73ae22c7524ca491440c6391c5f535">
+  <div>
+    <a href="https://www.loom.com/share/ce7c0d5b009c452a98b93db233f91ad7">
     </a>
-    <a href="https://www.loom.com/share/2a73ae22c7524ca491440c6391c5f535">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/2a73ae22c7524ca491440c6391c5f535-with-play.gif">
+    <a href="https://www.loom.com/share/ce7c0d5b009c452a98b93db233f91ad7">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ce7c0d5b009c452a98b93db233f91ad7-with-play.gif">
     </a>
   </div>
 
