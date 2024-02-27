@@ -25,6 +25,7 @@
 		99CF2AA829B0168700B4973F /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99CF2AA729B0168700B4973F /* Constants.swift */; };
 		99CF2AAA29B0172800B4973F /* BoardController+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99CF2AA929B0172800B4973F /* BoardController+Extensions.swift */; };
 		99CF2AAC29B0198D00B4973F /* ViewController+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99CF2AAB29B0198D00B4973F /* ViewController+Extensions.swift */; };
+		FB9F8BF32B8D8B6400096E4C /* FrontPageController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB9F8BF22B8D8B6400096E4C /* FrontPageController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -67,6 +68,7 @@
 		99CF2AA729B0168700B4973F /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		99CF2AA929B0172800B4973F /* BoardController+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BoardController+Extensions.swift"; sourceTree = "<group>"; };
 		99CF2AAB29B0198D00B4973F /* ViewController+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ViewController+Extensions.swift"; sourceTree = "<group>"; };
+		FB9F8BF22B8D8B6400096E4C /* FrontPageController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrontPageController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -158,6 +160,7 @@
 				99CF2AAB29B0198D00B4973F /* ViewController+Extensions.swift */,
 				996B84A9299990A900133037 /* SceneDelegate.swift */,
 				99CF2AA529B0157B00B4973F /* KeyboardController+Extensions.swift */,
+				FB9F8BF22B8D8B6400096E4C /* FrontPageController.swift */,
 			);
 			path = DO_NOT_MODIFY;
 			sourceTree = "<group>";
@@ -298,6 +301,7 @@
 				9953C05729A422C200247C5B /* WordGenerator.swift in Sources */,
 				991CEC0829999ECD0095F025 /* KeyboardController.swift in Sources */,
 				99CF2AAC29B0198D00B4973F /* ViewController+Extensions.swift in Sources */,
+				FB9F8BF32B8D8B6400096E4C /* FrontPageController.swift in Sources */,
 				9953C05529A40AC700247C5B /* BoardController.swift in Sources */,
 				996B84A8299990A900133037 /* AppDelegate.swift in Sources */,
 				99CF2AA829B0168700B4973F /* Constants.swift in Sources */,
