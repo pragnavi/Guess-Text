@@ -1,27 +1,16 @@
-# Project 1 - *Guess-Text*
-
-Submitted by: **Pragnavi Ravuluri Sai Durga**
+# Guess-Text
 
 **Guess-Text** is an app that recreates the popular word puzzle game Wordle. In this game, players attempt to guess a secret word within a limited number of tries. Each guess provides feedback to the player, indicating which letters are correctly placed, which are in the word but in the wrong position, and which are not in the word at all. The app features a keyboard interface for inputting guesses and a grid display that shows the progress and feedback for each guess. The goal is to correctly guess the word in as few tries as possible. Additionally, the app includes a WordGenerator component that selects a new, random word for each game session, ensuring a unique challenge each time. The game is designed to be both engaging and challenging, testing players' vocabulary and deductive reasoning skills.
 
-Time spent: **3** hours spent in total
+## Features
 
-## Required Features
+The following features are implemented:
 
-The following **required** functionality is completed:
-
-- [ x ] App displays a keyboard on the screen
-- [ x ] When tapping on the keyboard, a letter is shown or deleted (letter selected)
-- [ x ] User can play a basic version of Wordle, with different goal words each time
-
-The following **optional** features are implemented:
-
-- [ x ] Improve and customize the user interface by adding a launchscreen and app icon
-- [ x ] Run the app on a device rather than in the simulator
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] App displays a keyboard on the screen
+- [x] When tapping on the keyboard, a letter is shown or deleted (letter selected)
+- [x] User can play a basic version of Wordle, with different goal words each time
+- [x] Improve and customize the user interface by adding a launchscreen and app icon
+- [x] Run the app on a device rather than in the simulator
 
 ## Video Walkthrough
  
@@ -34,8 +23,6 @@ The following **additional** features are implemented:
   </div>
 
 ## Notes
-
-Describe any challenges encountered while building the app.
 
 During the development of the Wordle app, I encountered several challenges, primarily due to my beginner status in Swift programming. Grasping the syntax of Swift was particularly difficult at the outset. Understanding the logic and flow of the code was also a hurdle, as reading and interpreting Swift code wasn't intuitive for me initially. However, I tackled these challenges by diligently referring to Swift documentation and various online resources. This approach helped me gradually build my understanding and become more comfortable with the language and the app's logic. Over time, I managed to overcome these initial obstacles and make significant progress in developing the app.
 
